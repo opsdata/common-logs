@@ -1,4 +1,4 @@
-module github.com/opsdata/common-logs
+module github.com/opsdata/log
 
 go 1.17
 

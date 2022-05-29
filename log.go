@@ -27,7 +27,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/opsdata/common-logs/klog"
+	"github.com/opsdata/log/klog"
 )
 
 // InfoLogger represents the ability to log non-error messages, at a particular verbosity.
