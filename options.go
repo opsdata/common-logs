@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/opsdata/common-base/json"
+	"github.com/opsdata/common-base/pkg/json"
 
 	"github.com/spf13/pflag"
 	"go.uber.org/zap"
